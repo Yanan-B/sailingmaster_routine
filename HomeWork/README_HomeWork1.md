@@ -7,4 +7,4 @@ HomeWork1-2
 <img width="1313" height="514" alt="image" src="https://github.com/user-attachments/assets/ed1b631c-fb4e-4a56-a33e-7a28815b3cee" />
 
 # 🐛 错误记录
-double用%lf输出，float用%f输出
+1. double用%lf输出，float用%f输出
